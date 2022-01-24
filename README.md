@@ -14,7 +14,7 @@ Used Nodejs, mysql database, Sequelize.
 
 Before of run the project you have that install Mysql in your machine.
 
-Create a new file *default.json* inside folder config in the root of the project and create this structure, remember use config of your mysql:
+Create a new file *default.json* inside folder **config** in the root of the project and create this structure, remember use config of your mysql:
 
 ```json
 {
